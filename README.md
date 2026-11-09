@@ -13,10 +13,10 @@ Sélectionnez le fichier correspondant à votre système d'exploitation dans la 
 
 | Système | Fichier à télécharger | Installation |
 | --- | --- | --- |
-| 🪟 **Windows (64 bits)** | `Altis-Of-Life-setup-<version>.exe` | Lancez le programme d'installation. |
-| 🍎 **macOS Intel** | `Altis-Of-Life-setup-<version>-x64.dmg` | Ouvrez le DMG et installez l'application. |
-| 🍎 **macOS Apple Silicon** | `Altis-Of-Life-setup-<version>-arm64.dmg` | Ouvrez le DMG et installez l'application. |
-| 🐧 **Linux** | `Altis-Of-Life-setup-<version>.AppImage` | Rendez le fichier exécutable puis lancez-le. |
+| 🪟 **Windows (64 bits)** | `Altis-Of-Life-setup-.exe` | Lancez le programme d'installation. |
+| 🍎 **macOS Intel** | `Altis-Of-Life-setup-x64.dmg` | Ouvrez le DMG et installez l'application. |
+| 🍎 **macOS Apple Silicon** | `Altis-Of-Life-setup-arm64.dmg` | Ouvrez le DMG et installez l'application. |
+| 🐧 **Linux** | `Altis-Of-Life-setup.AppImage` | Rendez le fichier exécutable puis lancez-le. |
 
 > **Important :** les fichiers `latest.yml`, `latest-mac.yml`, `latest-linux.yml` et `.blockmap` servent au système de mise à jour. Pour une installation manuelle, téléchargez l'installateur adapté à votre système.
 
